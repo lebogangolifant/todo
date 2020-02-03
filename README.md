@@ -1,5 +1,3 @@
-# REACT TODO APP
-
 # React Todo App
 
 ![React Todo App](https://user.png)
